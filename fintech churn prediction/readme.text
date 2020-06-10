@@ -1,1 +1,2 @@
 dataset: 27000 columns and 31 features
+In this project, we use supervised learning models to identify customers for a Fintech Company who are likely to stop using service in the future. Furthermore, we will analyze top factors that influence user retention.
